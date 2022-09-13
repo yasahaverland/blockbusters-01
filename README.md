@@ -73,6 +73,7 @@ OMDB API
 * Add reviews that will be public for users and non users
 
 ## Wireframes
+![ERD](./imgs/Slice%201.png)
 ![ERD](./imgs/Slice%201%20(1).png)
 ![ERD](./imgs/Slice%201%20(2).png)
 ![ERD](./imgs/Slice%201%20(3).png)
